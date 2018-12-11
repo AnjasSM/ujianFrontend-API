@@ -119,13 +119,13 @@
     ],
     "cart": [
       {
-        // "nama": "WALL'S CHOCO NUTTY",
-        // "img": "https://www.wallsicecream.com/content/dam/unilever/heart/indonesia/pack_shot/front/ice_cream/in_home_ice_cream/wall_s_walls_selection_choco_nutty_8x_selection_choco_nutty_410_ml/8999999502218_walls_selection_choco_nutty_8x410ml-1185298-png.png.ulenscale.447x447.png",
-        // "harga": "100000",
-        // "qty": 5,
-        // "totalHarga": 500000,
-        // "description": "Es krim dengan rasa cokelat berpadu dengan kombinasi renyahnya 3 jenis kacang, yaitu kacang tanah, almond dan mede, yang bercampur dengan kelezatan saus cokelat. Lengkapi momen bersama keluarga dengan renyahnya Wall's Choco Nutty Crunch.",
-        // "id": 0
+        "nama": "WALL'S CHOCO NUTTY",
+        "img": "https://www.wallsicecream.com/content/dam/unilever/heart/indonesia/pack_shot/front/ice_cream/in_home_ice_cream/wall_s_walls_selection_choco_nutty_8x_selection_choco_nutty_410_ml/8999999502218_walls_selection_choco_nutty_8x410ml-1185298-png.png.ulenscale.447x447.png",
+        "harga": "100000",
+        "qty": 5,
+        "totalHarga": 500000,
+        "description": "Es krim dengan rasa cokelat berpadu dengan kombinasi renyahnya 3 jenis kacang, yaitu kacang tanah, almond dan mede, yang bercampur dengan kelezatan saus cokelat. Lengkapi momen bersama keluarga dengan renyahnya Wall's Choco Nutty Crunch.",
+        "id": 0
       }
     ],
     "history": [
