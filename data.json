@@ -1,0 +1,136 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Kambing",
+      "password": "Kambinggue",
+      "email": "KambingGue@gmail.com"
+    },
+    {
+      "id": 2,
+      "username": "Sapi",
+      "password": "SapiGahul",
+      "email": "GahulSapi@gmail.com"
+    },
+    {
+      "username": "Cendol",
+      "email": "cendol@gmail.com",
+      "password": "1sampai8",
+      "phone": "085721451724",
+      "id": 3
+    },
+    {
+      "username": "Ferguso",
+      "email": "ferguso@gmail.com",
+      "password": "abc123",
+      "phone": "085721637152",
+      "id": 4
+    }
+  ],
+  "popok": [
+    {
+      "id": 1,
+      "nama": "CHEESE CROWN",
+      "merk": "Greater's",
+      "description": "A Cincinnati bakery tradition for over half a century, the Cheese Crown danish inspired this cheesecake flavored ice cream with cinnamon sugar pastry pieces and fondant icing flakes for a wholly decadent treat. Indulge and enjoy!",
+      "harga": 50000,
+      "img": "https://www.graeters.com/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/h/cheesecrown_2.jpg"
+    },
+    {
+      "nama": "COTTON CANDY",
+      "merk": "Greater's",
+      "img": "https://www.graeters.com/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/o/cottoncandy.jpg",
+      "harga": "50000",
+      "description": "Cotton candy reinterpreted into our creamy ice cream with a colorful sugar crunch inclusion made with artificial color and flavor.",
+      "id": 2
+    },
+    {
+      "nama": "DARK CHOCOLATE BROWNIE",
+      "merk": "Greater's",
+      "img": "https://www.graeters.com/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/d/a/dark-chocolate-brownie-bonus.jpg",
+      "harga": "50000",
+      "description": "A chocolate lover's delight, our Dark Chocolate Brownie ice cream is packed with soft, chewy brownie bits complementing the richness of the dark chocolate ice cream.",
+      "id": 3
+    },
+    {
+      "nama": "STRAWBERRY CHEESECAKE",
+      "merk": "Greater's",
+      "img": "https://www.graeters.com/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/s/t/strawcheesecake.jpg",
+      "harga": "50000",
+      "description": "We’ve married the finest strawberries and graham cracker pieces with our rich, cream cheese based ice cream to delight true cheesecake lovers everywhere.",
+      "id": 4
+    },
+    {
+      "nama": "Bold Strawberry Cookies",
+      "merk": "Campiun",
+      "img": "http://icecreamstore.co.id/data/produk/Concerto-Strawberry-Cookies_big.png",
+      "harga": "10000",
+      "description": "Paduan es krim strawberry lembut dan potongan cookies nikmat menyatu dalam cone yang renyah.",
+      "id": 5
+    },
+    {
+      "nama": "Concerto Bold Tiramisu Cookies",
+      "merk": "Campiun",
+      "harga": "10000",
+      "img": "http://icecreamstore.co.id/data/produk/Tiramisu%20cookies%20low_big.png",
+      "description": "Paduan es krim tiramisu lembut dan potongan cookies nikmat menyatu dalam cone yang renyah.",
+      "id": 6
+    },
+    {
+      "nama": "Concerto Choco Banana",
+      "merk": "Campiun",
+      "harga": "10000",
+      "img": "http://icecreamstore.co.id/data/produk/Concerto-ChocoBanana_big.png",
+      "description": "Paduan es krim coklat dan pisang yang lembut di dalam dengan cone yang renyah.",
+      "id": 7
+    },
+    {
+      "nama": "Concerto Choco Passion",
+      "merk": "Campiun",
+      "harga": "10000",
+      "img": "http://icecreamstore.co.id/data/produk/Concerto-Choco-Passion.png",
+      "description": "Es krim cone rasa coklat dan vanila dengan choco chips",
+      "id": 8
+    },
+    {
+      "nama": "WALL'S VANILA CHOCOLATE CHIP",
+      "merk": "Woles",
+      "img": "https://www.wallsicecream.com/content/dam/unilever/heart/indonesia/pack_shot/top/ice_cream/in_home_ice_cream/walls_es_krim_vanchocchipandcho_350_ml/8999999042271_walls_vanchocchip&cho350ml12-1203212-png.png.ulenscale.447x447.png",
+      "harga": "80000",
+      "description": "Es krim rasa cokelat dan vanilla dengan butiran cokelat. Dua rasa favorit keluarga dengan taburan choco chips renyah lengkapi waktu santai bersama di rumah. Jadikan snack kesukaan keiuarga lebih terasa menyenangkan dengan Wall's Vanchoccip 2-in-1.",
+      "id": 9
+    },
+    {
+      "nama": "WALL'S NEAPOLITANA",
+      "merk": "Woles",
+      "img": "https://www.wallsicecream.com/content/dam/unilever/heart/indonesia/pack_shot/top/ice_cream/all/8999999278410_walls_neopolitana_700ml_6-1184219-png.png.ulenscale.447x447.png",
+      "harga": "80000",
+      "description": "Es krim rasa cokelat, stroberi, dan vanilla. Ciptakan berbagai kreasi es krim bercita rasa cokelat, stroberi, dan vanilla dengan Wall's 3-in-1 Neopolitana Extra Creamy",
+      "id": 10
+    },
+    {
+      "nama": "WALL'S CHOCO NUTTY",
+      "merk": "Woles",
+      "img": "https://www.wallsicecream.com/content/dam/unilever/heart/indonesia/pack_shot/front/ice_cream/in_home_ice_cream/wall_s_walls_selection_choco_nutty_8x_selection_choco_nutty_410_ml/8999999502218_walls_selection_choco_nutty_8x410ml-1185298-png.png.ulenscale.447x447.png",
+      "harga": "100000",
+      "description": "Es krim dengan rasa cokelat berpadu dengan kombinasi renyahnya 3 jenis kacang, yaitu kacang tanah, almond dan mede, yang bercampur dengan kelezatan saus cokelat. Lengkapi momen bersama keluarga dengan renyahnya Wall's Choco Nutty Crunch.",
+      "id": 11
+    }
+  ],
+  "cart": [
+    {
+      "nama": "WALL'S CHOCO NUTTY",
+      "img": "https://www.wallsicecream.com/content/dam/unilever/heart/indonesia/pack_shot/front/ice_cream/in_home_ice_cream/wall_s_walls_selection_choco_nutty_8x_selection_choco_nutty_410_ml/8999999502218_walls_selection_choco_nutty_8x410ml-1185298-png.png.ulenscale.447x447.png",
+      "harga": "100000",
+      "qty": 5,
+      "totalHarga": ,
+      "description": "Es krim dengan rasa cokelat berpadu dengan kombinasi renyahnya 3 jenis kacang, yaitu kacang tanah, almond dan mede, yang bercampur dengan kelezatan saus cokelat. Lengkapi momen bersama keluarga dengan renyahnya Wall's Choco Nutty Crunch.",
+      "id": 11
+    }
+  ],
+  "history": [
+    {
+
+    }
+  ]
+}
